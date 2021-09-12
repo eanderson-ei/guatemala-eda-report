@@ -1,8 +1,8 @@
 # Preliminary Analysis of Guatemala Spatial Data
 
 <details>
-<summary><b>Learn more about how this report was generated</b></summary>
-This report was generated using a Jupyter Notebook, available as an ESRI application add-on. This report provides the interactivity of a website without requiring a web connection. All data are stored locally; data are not made available on the web. To share this report, share the folder <b>/interactive-report/</b> instead of this file. If maps or figures are not displayed, you may be missing the <b>/assets/</b> folder shared alongside this file. This report is also available with the Jupyter Notebook code used to create it upon request.
+    <summary><b>Learn more about how this report was generated</b></summary>
+This report was generated using a Jupyter Notebook, available as an ESRI application add-on with a Creator Account. A version of this notebook with the code used to generate it is available upon request.
 </details>
 
 This report details an initial analysis of currently available spatial data in Guatemala. The purpose of this analysis is to better understand the data available, limitations of the data, and the types of questions these data may help us answer for stakeholders. This report also models a repeatable, generalized process for data analysis.
