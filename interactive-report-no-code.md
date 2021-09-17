@@ -81,7 +81,7 @@ For each analysis, we will create one map per metric showing a choropleth of the
 
 ### Expectation
 
-*The expectation should describe what the stakeholder expects the data to show following the evaluation. Stating the expectation before the evaluation serves as a lightweight hypothesis and can help prevent the stakeholder from explaining away the results of the analysis if the results do not match what they want to see. This is also an opportunity to capture any limitations of the data or the analysis which might explain why the results of the analysis do not match the expectation.*
+*The expectation should describe what the stakeholder expects the data to show following the evaluation. Stating the expectation before the evaluation serves as a lightweight hypothesis and can stakeholders think through what a positive or negative result implies. This is also an opportunity to capture any limitations of the data or the analysis which might explain why the results of the analysis do not match the expectation.*
 
 We expect that the number of activities in any municipality is positively correlated with any metric for which the Technical Office is attempting to influence through its programming. For example, we expect that the count of all activities, regardless of Technical Office, increases as the MPI increases due to the focus on the Root Causes Strategy (RCS). This would corroborate the assertion that the Mission is geographically targetting resources strategically.
 
@@ -157,7 +157,7 @@ Indeed, we do see a stronger relationship between the average MPI score within a
 
 #### La Ruta
 
-Here we filter activities that are included in La Ruta collaboration, which include 'Nexos Locales Project', 'Community Roots Project', 'Communities Leading Development', 'Peacebuilding Project', 'Feed the Future Guatemala Innovative Solutions for Agricultural Value Chains Project', 'Puentes Project', and 'Tere Robles' (Tere Robles is not represented in activities data set). 
+Here we filter activities that are included in La Ruta collaboration, which include 'Nexos Locales Project', 'Community Roots Project', 'Communities Leading Development', 'Peacebuilding Project', 'Feed the Future Guatemala Innovative Solutions for Agricultural Value Chains Project', and 'Puentes Project'. 
 
 <iframe height=350 width=100% src='assets/La Ruta-map.html'></iframe>
 
@@ -175,7 +175,7 @@ The departments with the most activities are also those known to have the highes
 
 <iframe width=100% height=200 src='assets/top-departments-table.html'></iframe>
 
-If IPs typically work regionally within Guatemala, this suggests that IPs working in a region might be more effective by targetting in which municipalities they function. However, it may also be the case that IPs are increasing targetting their level of effort at some sub-municipal level. Follow up conversations with IPs can help discern if there is truly an opportunity for more specific geographic targetting.
+If IPs typically work regionally within Guatemala, this suggests that IPs working in a region might be more effective by targeting in which municipalities they function. However, it may also be the case that IPs are targeting their level of effort at some sub-municipal level. Follow up conversations with IPs can help discern if there is truly an opportunity for more specific geographic targeting.
 
 #### Future Directions
 
